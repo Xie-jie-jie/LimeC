@@ -1,2 +1,2 @@
-# TEGMEN
-TEGMEN is a programming language, inspired by Pascal, Ada and Fortran.
+# TEL
+TEL is a programming language, inspired by Pascal, Ada and Fortran.
